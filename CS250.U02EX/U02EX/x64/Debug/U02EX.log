@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Users\itsas\projects\jyates15-cs250\CS250.U02EX\U02EX\Program.cpp(117,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\itsas\projects\jyates15-cs250\CS250.U02EX\U02EX\Program.cpp(135,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  U02EX.vcxproj -> C:\Users\itsas\projects\jyates15-cs250\CS250.U02EX\U02EX\x64\Debug\U02EX.exe
